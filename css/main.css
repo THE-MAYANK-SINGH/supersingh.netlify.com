@@ -1,0 +1,26 @@
+.site-header{
+    background-color: lightseagreen;
+    font-family: monospace;
+    color: mintcream;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.image-style{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    box-shadow: rgb(20, 95, 91) 5px 5px 5px;
+}
+body{
+    margin: 0;
+}
+.site-header-content{
+    margin: 10px;
+    align-self: center;
+}
+.link-style{
+    color: mintcream;
+}
